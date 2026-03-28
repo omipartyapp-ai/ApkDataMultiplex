@@ -26,4 +26,4 @@ assets/base.apk >> offset=0x0
 Data multiplexing optimize: test.apk (89.32KB) -> out.apk (67.79KB)  [-24.11%]
 Optimization complete. Now signing...
 Signing complete!
-```
+``` 
